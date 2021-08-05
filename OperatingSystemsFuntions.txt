@@ -1,0 +1,1 @@
+One of the functions that an operating system has is to manage the computer’s resources such as the central processing unit, memory, disk drives and printers.  
