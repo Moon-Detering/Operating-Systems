@@ -1,1 +1,3 @@
 One of the functions that an operating system has is to manage the computer’s resources such as the central processing unit, memory, disk drives and printers.  
+Another fundtion that an operating system has is to establish a user interface. 
+Operating system also execute and provide services for application software. 
